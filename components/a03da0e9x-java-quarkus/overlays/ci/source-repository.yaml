@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: a03da0e9x-java-quarkus-repository
+spec:
+  url: https://github.com/chetna14manku-org/a03da0e9x-java-quarkus
